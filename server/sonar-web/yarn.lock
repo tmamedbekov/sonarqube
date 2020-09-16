@@ -8435,14 +8435,14 @@ rc@^1.2.7:
     minimist "^1.2.0"
     strip-json-comments "~2.0.1"
 
-react-countup@4.1.1:
-  version "4.1.1"
-  resolved "https://repox.jfrog.io/repox/api/npm/npm/react-countup/-/react-countup-4.1.1.tgz#4c8e70187ae07840cfd75bee29a0892e97d17c49"
-  integrity sha1-TI5wGHrgeEDP11vuKaCJLpfRfEk=
+react-countup@4.3.3:
+  version "4.3.3"
+  resolved "https://registry.yarnpkg.com/react-countup/-/react-countup-4.3.3.tgz#143a8d854d47290b73d6915eac20a12d839153c2"
+  integrity sha512-pWnxpwdPNRyJFha/YKKbyc4RLAw8PzmULdgCziGIgw6vxhT1VdccrvQgj38HBSoM2qF/MoLmn4M2klvDWVIdaw==
   dependencies:
     countup.js "^1.9.3"
-    prop-types "^15.6.2"
-    warning "^4.0.2"
+    prop-types "^15.7.2"
+    warning "^4.0.3"
 
 react-day-picker@7.3.0:
   version "7.3.0"
@@ -10516,7 +10516,7 @@ warning@^3.0.0:
   dependencies:
     loose-envify "^1.0.0"
 
-warning@^4.0.2, warning@^4.0.3:
+warning@^4.0.3:
   version "4.0.3"
   resolved "https://repox.jfrog.io/repox/api/npm/npm/warning/-/warning-4.0.3.tgz#16e9e077eb8a86d6af7d64aa1e05fd85b4678ca3"
   integrity sha1-Fungd+uKhtavfWSqHgX9hbRnjKM=
