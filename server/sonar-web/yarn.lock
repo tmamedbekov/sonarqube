@@ -8444,10 +8444,10 @@ react-countup@4.1.1:
     prop-types "^15.6.2"
     warning "^4.0.2"
 
-react-day-picker@7.3.0:
-  version "7.3.0"
-  resolved "https://repox.jfrog.io/repox/api/npm/npm/react-day-picker/-/react-day-picker-7.3.0.tgz#59b6d4e19d274650c79dcf49fbcce2637313467d"
-  integrity sha1-WbbU4Z0nRlDHnc9J+8ziY3MTRn0=
+react-day-picker@7.4.8:
+  version "7.4.8"
+  resolved "https://registry.yarnpkg.com/react-day-picker/-/react-day-picker-7.4.8.tgz#675625240d3fae1b41c0a9d5177c968c8517c1d4"
+  integrity sha512-pp0hnxFVoRuBQcRdR1Hofw4CQtOCGVmzCNrscyvS0Q8NEc+UiYLEDqE5dk37bf0leSnBW4lheIt0CKKhuKzDVw==
   dependencies:
     prop-types "^15.6.2"
 
